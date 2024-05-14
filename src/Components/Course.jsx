@@ -7,7 +7,7 @@ function Course() {
   return (
    <>
    <div className='max-w-screen-2xl container max-auto md:px-20 px-2'>
-    <div className='mt-28 items-center text-center justify-center'>
+    <div className='py-28 items-center text-center justify-center'>
         <h1 className='text-xl  md:text-4xl'>We are delighted to have you {""}
         <span className='text-pink-500'>here!!!:)</span>
         </h1>
